@@ -1,6 +1,6 @@
 # hello there
 
-```qml
+```rust
 let me = student {
     status: "quietly building something, that will break.",
     last_incident: "properly broke someone's code, or my own",
