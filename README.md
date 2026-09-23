@@ -1,4 +1,4 @@
-# hello there
+# hello there :wave:
 
 ```rust
 let me = student {
